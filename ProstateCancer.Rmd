@@ -1,14 +1,8 @@
 ---
 title: "Prostate Cancer: Ridge and Lasso"
 author: Carpineta M., Ciarelli R., D'Onofrio M., Marusco L.
-output:
-  html_document:
-    code_folding: show
-    toc: yes
-    toc_float: yes
-    theme: simplex
-  pdf_document:
-    toc: yes
+output: 
+ rmdformats::readthedown
 ---
 <style type="text/css">
 
